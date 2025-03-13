@@ -1,5 +1,6 @@
-# Retail Analytics Demo
+# Inventory Management using Video Analytics
 
+Building a complete inventory management solution generally involves connecting to an ERP or inventory management system.  However, a good first step in building such a system is to train visual detectors to identify objects of interest, and annotate a video so you can see how well it's working.  This demo will walk you through the process of training a detector and annotating a video.
 
 ## Generating the data
 
