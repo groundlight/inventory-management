@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "retaildemo"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+groundlight = "^0.17.1"
+dvc = {extras = ["s3"], version = "^3.51.2"}
+framegrab = "^0.6.2"
+pydantic = "^2.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
