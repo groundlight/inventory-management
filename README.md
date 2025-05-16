@@ -61,3 +61,5 @@ Run the script to generate the frames:
     --save-to data/frames/videoname-0.1
 ```
 
+The generated frames will be saved to `data/frames/videoname-0.1`
+
