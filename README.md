@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/gl_logo.png" width="80%">
+<img src="images/gl_logo.png" width="400px">
 </p>
 
 
