@@ -440,7 +440,7 @@ watchdog @ file:///Users/cbousseau/work/recipes/ci_py311/watchdog_1677963700938/
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client @ file:///Users/cbousseau/work/recipes/ci_py311/websocket-client_1677918996745/work
-Werkzeug==3.0.2
+Werkzeug==3.0.6
 wget==3.2
 whatthepatch @ file:///Users/cbousseau/work/recipes/ci_py311/whatthepatch_1677934976505/work
 widgetsnbextension @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9v6fxmzlg/croot/widgetsnbextension_1701273650279/work
