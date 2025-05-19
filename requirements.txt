@@ -112,7 +112,7 @@ django-ranged-fileresponse==0.1.2
 django-rq==2.5.1
 django-storages==1.12.3
 django-user-agents==0.4.0
-djangorestframework==3.13.1
+djangorestframework==3.15.2
 dmglib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e8vusks82c/croot/dmglib_1719996269222/work
 DockerHub-API @ git+https://github.com/Granulate/DockerHub-API.git@27015dbd00c0e0550dd34287db4b70625985edc3
 docstring-to-markdown @ file:///Users/cbousseau/work/recipes/ci_py311/docstring-to-markdown_1677931891483/work
