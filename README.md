@@ -12,8 +12,8 @@ Building a complete inventory management solution generally involves connecting 
 </p>
 
 <p align="center">
-  <a href="https://vimeo.com/1036091427">
-    Full resolution video
+  <a href="https://vimeo.com/1036091427" target="_blank">
+    Click here for full resolution
   </a>
 </p>
 
