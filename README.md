@@ -11,6 +11,12 @@ Building a complete inventory management solution generally involves connecting 
 <img src="images/demo_video.webp" alt="Demo GIF" width="800" />
 </p>
 
+<p align="center">
+  <a href="https://vimeo.com/1036091427">
+    Full resolution video
+  </a>
+</p>
+
 ## Installation
 
 The code supports installing the dependencies using both `uv` and `pip`.
