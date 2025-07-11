@@ -36,13 +36,6 @@ uv venv
 uv sync --no-build-isolation
 ```
 
-### Using `pip`
-
-```bash
-cd inventory-management
-pip install -r requirements.txt
-```
-
 ## Generating the data
 
 ### Videos
