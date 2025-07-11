@@ -19,28 +19,19 @@ Building a complete inventory management solution generally involves connecting 
 
 ## Installation
 
-The code supports installing the dependencies using both `uv` and `pip`.
+The code supports installing the dependencies using `uv`.
 
 ```bash
 # Clone this repo
 git clone git@github.com:groundlight/inventory-management.git
 ```
 
-Then install the dependencies using `uv` or `pip`
-
-### Using `uv`
+Then install the dependencies using `uv`
 
 ```bash
 cd inventory-management
 uv venv
 uv sync --no-build-isolation
-```
-
-### Using `pip`
-
-```bash
-cd inventory-management
-pip install -r requirements.txt
 ```
 
 ## Generating the data
